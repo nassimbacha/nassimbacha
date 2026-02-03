@@ -1,5 +1,5 @@
 
-## 👋 Hi, I’m Nassim
+##  Hi, I’m Nassim
 
 PMP-certified Project Management and Project Coordination professional with experience in **construction and operations projects**, primarily within the **automotive sector**. I have worked on **infrastructure development, facility compliance, and network expansion projects**, including showrooms, maintenance workshops, spare parts facilities, and administrative buildings.
 
@@ -18,7 +18,7 @@ My background combines **hands-on project coordination**, **budget and schedule 
 
 ---
 
-## 📊 Data Analysis Skills
+## Data Analysis Skills
 
 I use data analysis as a **supporting capability** to enhance project monitoring, reporting, and decision-making.
 
@@ -28,7 +28,7 @@ I use data analysis as a **supporting capability** to enhance project monitoring
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 ### Project Management & Planning
 - **Primavera**
@@ -44,7 +44,7 @@ I use data analysis as a **supporting capability** to enhance project monitoring
 
 ---
 
-## 📌 Current Focus
+##  Current Focus
 
 - Applying project management best practices to real-world construction and operations environments  
 - Strengthening planning, cost control, and delivery governance  
@@ -52,17 +52,17 @@ I use data analysis as a **supporting capability** to enhance project monitoring
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 - French: Native / Professional
 - English: Professional
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-- 📍 Ottawa–Gatineau Region, Canada  
-- 📧 Email: tazirnb@outlook.com  
+- Ottawa–Gatineau Region, Canada  
+- Email: tazirnb@outlook.com  
 
 ---
 
