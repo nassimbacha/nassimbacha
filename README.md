@@ -7,7 +7,7 @@ My background combines **hands-on project coordination**, **budget and schedule 
 
 ---
 
-## 🔧 What I Do
+##  What I Do
 
 - Project management and project coordination (construction & operations)
 - Schedule planning and tracking (Gantt-based planning)
