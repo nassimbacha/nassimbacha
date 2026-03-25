@@ -1,70 +1,41 @@
+# Hi, I'm Nassim Tazir
 
-##  Hi, I’m Nassim
+## Data Analyst | Applied Data Science | PMP®
 
-PMP-certified Project Management and Project Coordination professional with experience in **construction and operations projects**, primarily within the **automotive sector**. I have worked on **infrastructure development, facility compliance, and network expansion projects**, including showrooms, maintenance workshops, spare parts facilities, and administrative buildings.
+Data analyst and applied data science professional with 4+ years of experience in financial data analysis, including client portfolio segmentation, risk profiling, and KPI reporting using Python, R, and SQL.
 
-My background combines **hands-on project coordination**, **budget and schedule tracking**, and **stakeholder management**, supported by a structured project management approach and practical use of planning, reporting, and data analysis tools.
-
----
-
-##  What I Do
-
-- Project management and project coordination (construction & operations)
-- Schedule planning and tracking (Gantt-based planning)
-- Budget tracking and cost control
-- Review and validation of subcontractor cost estimates
-- Coordination of approved subcontractors and on-site follow-up
-- Project documentation, reporting, and performance tracking
+Recently completed a diploma in Applied Data Science at Collège La Cité (Ottawa), with hands-on projects in machine learning, clustering, time series forecasting, and big data processing.
 
 ---
 
-## Data Analysis Skills
+## What I Do
 
-I use data analysis as a **supporting capability** to enhance project monitoring, reporting, and decision-making.
-
-- Data cleaning, structuring, and analysis
-- Descriptive statistics and performance indicators
-- Data-driven project monitoring and reporting
-
----
-
-## Tools & Technologies
-
-### Project Management & Planning
-- **Primavera**
-- **MS Project**
-- **Excel** (advanced: tracking tables, analysis, dashboards)
-
-### Data & Analytics
-- **Python**
-- **Java**
-- **SQL**
-- **R**
-- **PySpark**
+- **Machine Learning:** Random Forest, XGBoost, LightGBM, logistic & linear regression
+- **Unsupervised Learning:** K-Means clustering, PCA, MCA, AFC
+- **Feature Engineering:** Lags, rolling means, target encoding, seasonal flags
+- **Big Data:** Hadoop MapReduce, HDFS, PySpark, Docker, Streamlit
+- **Data Analysis:** Python (pandas, NumPy, scikit-learn, Seaborn), R, SQL
 
 ---
 
-##  Current Focus
+## Featured Projects
 
-- Applying project management best practices to real-world construction and operations environments  
-- Strengthening planning, cost control, and delivery governance  
-- Leveraging data analysis tools to support project monitoring and decision-making  
+- **Sales Forecasting - Walmart** — Time series pipeline on 408K+ transactions, R² avg: 0.94
+- **Credit Card Default Risk** — Segmentation of 30K clients, PCA + K-Means, 62.6% default group identified
+- **Bank Marketing ML Pipeline** — sklearn pipeline, Random Forest, 98.2% accuracy
+- **Big Data Pipeline** — Hadoop MapReduce + Streamlit dashboard, Dockerized cluster
 
 ---
 
-##  Languages
+## Languages
 
-- French: Native / Professional
+- French: Native
 - English: Professional
 
 ---
 
 ## Get in Touch
 
-- Ottawa–Gatineau Region, Canada  
-- Email: tazirnb@outlook.com  
-
----
-
-Thanks for visiting my GitHub profile!
-
+- 📧 tazirnb@outlook.com
+- 🌐 [Portfolio](https://nassimbacha.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nassim-tazir-6b25b93aa/)
