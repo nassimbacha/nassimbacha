@@ -20,10 +20,10 @@ Recently completed a diploma in Applied Data Science at Collège La Cité (Ottaw
 
 ## Featured Projects
 
-- **Sales Forecasting - Walmart** — Time series pipeline on 408K+ transactions, R² avg: 0.94
-- **Credit Card Default Risk** — Segmentation of 30K clients, PCA + K-Means, 62.6% default group identified
-- **Bank Marketing ML Pipeline** — sklearn pipeline, Random Forest, 98.2% accuracy
-- **Big Data Pipeline** — Hadoop MapReduce + Streamlit dashboard, Dockerized cluster
+- **Sales Forecasting - Walmart** - Time series pipeline on 408K+ transactions, R² avg: 0.94
+- **Credit Card Default Risk** - Segmentation of 30K clients, PCA + K-Means, 62.6% default group identified
+- **Bank Marketing ML Pipeline** - sklearn pipeline, Random Forest, 98.2% accuracy
+- **Big Data Pipeline** - Hadoop MapReduce + Streamlit dashboard, Dockerized cluster
 
 ---
 
