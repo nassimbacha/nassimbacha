@@ -1,41 +1,22 @@
 # Hi, I'm Nassim Tazir
 
-## Data Analyst | Applied Data Science | PMP®
+Data & Analytics Analyst | CRM (Salesforce) & Data Governance | DAMA-DMBOK
 
-Data analyst and applied data science professional with 4+ years of experience in financial data analysis, including client portfolio segmentation, risk profiling, and KPI reporting using Python, R, and SQL.
+I'm a bilingual (French/English) data analyst based in Ottawa, Canada, with hands-on experience in data quality, CRM data management, and business intelligence. Currently exploring opportunities in data governance, CRM analytics, and BI.
 
-Recently completed a diploma in Applied Data Science at Collège La Cité (Ottawa), with hands-on projects in machine learning, clustering, time series forecasting, and big data processing.
-
+Data Quality & Governance: deduplication, standardization, validation - aligned with the DAMA-DMBOK framework
+CRM & Customer Data: Salesforce, customer portfolio management, data workflows
+BI & Visualization: Power BI, Tableau, Streamlit
+Languages & Databases: Python (pandas, NumPy, scikit-learn), R, SQL, SQL Server, MySQL
+Big Data / ETL: Hadoop MapReduce, HDFS, PySpark, Docker, Databricks
+Certified: PMP, PSM I, PSPO I, Lean Six Sigma Green Belt
 ---
 
-## What I Do
+## Links
 
-- **Machine Learning:** Random Forest, XGBoost, LightGBM, logistic & linear regression
-- **Unsupervised Learning:** K-Means clustering, PCA, MCA, AFC
-- **Feature Engineering:** Lags, rolling means, target encoding, seasonal flags
-- **Big Data:** Hadoop MapReduce, HDFS, PySpark, Docker, Streamlit
-- **Data Analysis:** Python (pandas, NumPy, scikit-learn, Seaborn), R, SQL
+Portfolio: https://nassimbacha.github.io
+Tableau Public: https://public.tableau.com/app/profile/nassim.tazir4809/vizzes
+LinkedIn: https://www.linkedin.com/in/nassim-tazir-6b25b93aa
+Email: tazirnb@outlook.com
 
----
 
-## Featured Projects
-
-- **Sales Forecasting - Walmart** - Time series pipeline on 408K+ transactions, R² avg: 0.94
-- **Credit Card Default Risk** - Segmentation of 30K clients, PCA + K-Means, 62.6% default group identified
-- **Bank Marketing ML Pipeline** - sklearn pipeline, Random Forest, 98.2% accuracy
-- **Big Data Pipeline** - Hadoop MapReduce + Streamlit dashboard, Dockerized cluster
-
----
-
-## Languages
-
-- French: Native
-- English: Professional
-
----
-
-## Get in Touch
-
-- 📧 tazirnb@outlook.com
-- 🌐 [Portfolio](https://nassimbacha.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nassim-tazir-6b25b93aa/)
